@@ -17,3 +17,7 @@ Example of output with postman
 
 ![image](https://github.com/joseantoniovegaruiz2/GenAIHackathon/assets/79467598/b9b21f3f-d4e8-4068-a3be-0df5a0fa4d3e)
 
+
+add -parameters
+
+![image](https://github.com/joseantoniovegaruiz2/GenAIHackathon/assets/79467598/55a6765f-48a6-4ab4-bffe-25522450c85e)
