@@ -1,0 +1,40 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.2.1'
+	id 'io.spring.dependency-management' version '1.1.4'
+}
+
+group = 'com.extractTextfromImage'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	sourceCompatibility = '17'
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter'
+	implementation 'org.springframework.boot:spring-boot-starter-web:2.7.1'
+	implementation 'net.sourceforge.tess4j:tess4j:4.5.4'
+	implementation 'org.springframework.boot:spring-boot-starter-test'
+
+	// Add other dependencies as needed
+
+	// Remove the duplicated lines with the same dependency
+//    implementation 'org.springframework.boot:org.springframework.boot.gradle.plugin:3.1.2'
+
+	// Uncomment the dependencies you need
+//    implementation 'org.springframework.boot:spring-boot-starter-webflux:2.7.1'
+//    implementation 'commons-io:commons-io:2.15.1'
+//    implementation 'commons-fileupload:commons-fileupload:1.4'
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
+tasks.withType(JavaCompile) {
+	options.compilerArgs += ['-parameters']
+}
