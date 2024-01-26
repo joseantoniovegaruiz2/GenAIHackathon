@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T10:15:51.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="87SeLQa4wMZi-YxGuOug" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-26T17:34:06.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="1Ib8LxHmcVd1tph7nYME" version="22.1.21" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
         <mxCell id="6a7d8f32e03d9370-24" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.hq_enterprise;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="227" y="252" width="92" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="UXf9KYadFuIa2SEW5hK5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6a7d8f32e03d9370-25" target="6a7d8f32e03d9370-31">
+        <mxCell id="UXf9KYadFuIa2SEW5hK5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6a7d8f32e03d9370-25" target="6a7d8f32e03d9370-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-25" value="Secure Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.proxy_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
@@ -189,13 +189,13 @@
         <mxCell id="6a7d8f32e03d9370-62" value="&amp;nbsp;Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="30" width="861" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UXf9KYadFuIa2SEW5hK5-3" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Man_128x128.png" vertex="1" parent="1">
+        <mxCell id="UXf9KYadFuIa2SEW5hK5-3" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Man_128x128.png" parent="1" vertex="1">
           <mxGeometry x="227" y="577" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UXf9KYadFuIa2SEW5hK5-4" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_Black_128x128.png" vertex="1" parent="1">
+        <mxCell id="UXf9KYadFuIa2SEW5hK5-4" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Woman_Black_128x128.png" parent="1" vertex="1">
           <mxGeometry x="1291" y="565" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UXf9KYadFuIa2SEW5hK5-6" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Man_Black_128x128.png" vertex="1" parent="1">
+        <mxCell id="UXf9KYadFuIa2SEW5hK5-6" value="" style="image;html=1;image=img/lib/clip_art/people/Doctor_Man_Black_128x128.png" parent="1" vertex="1">
           <mxGeometry x="233" y="1056" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
