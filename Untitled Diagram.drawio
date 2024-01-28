@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-28T10:31:41.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="sCDYzqikAbeitedrRbuB" version="22.1.21" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-28T10:36:00.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KTlLtuNuosvzP0bA0w2F" version="22.1.21" type="github" pages="4">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -371,28 +371,31 @@
           <mxGeometry x="950" y="560" width="165" height="133" as="geometry" />
         </mxCell>
         <mxCell id="GRdJn9pDozvjfMk0XIZr-10" value="Success Extraction Rate" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="140" y="430" width="160" height="40" as="geometry" />
+          <mxGeometry x="140" y="440" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GRdJn9pDozvjfMk0XIZr-11" value="OCR Accuracy" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="430" y="430" width="130" height="40" as="geometry" />
+          <mxGeometry x="430" y="440" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GRdJn9pDozvjfMk0XIZr-12" value="Processing Speed" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="720" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="700" y="440" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GRdJn9pDozvjfMk0XIZr-13" value="OCR Error Rate" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="990" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="957.5" y="445" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GRdJn9pDozvjfMk0XIZr-14" value="OCR Coverage" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="182.5" y="730" width="80" height="40" as="geometry" />
+          <mxGeometry x="150" y="720" width="112.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GRdJn9pDozvjfMk0XIZr-15" value="Processing Rate by Document Type" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="440" y="730" width="140" height="40" as="geometry" />
+          <mxGeometry x="430" y="720" width="147.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GRdJn9pDozvjfMk0XIZr-16" value="System Response Time" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="710" y="720" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GRdJn9pDozvjfMk0XIZr-17" value="User Satisfaction" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="990" y="730" width="80" height="40" as="geometry" />
+          <mxGeometry x="960" y="720" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6LmVtoApJ-QR-u68NLte-1" value="Data Visualization" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.anchor;fontSize=26;align=left;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
